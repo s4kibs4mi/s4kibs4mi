@@ -4,7 +4,7 @@ My Name is Sakib and I am a Tech Entrepreneur, Software Engineer, Open Source En
 
 You can find me on [Linkedin](https://linkedin.com/in/s4kibs4mi), [Twitter](https://twitter.com/s4kibs4mi), [StackOverflow](https://stackoverflow.com/users/2923205/sakib-sami), [Medium](https://medium.com/@sakibsami). I also use few other social networks but I don't think that will be interesting for you.
 
-I have over 6 years of large scale software design & development experience (Backend & Android). Experienced in both writing software from scratch and maintaining large existing projects. In this time I have developed applications on different verticals including messaging, audio/video streaming, ride-sharing, event-driven, eCommerce, FinTech, EdTech, IoT, Blockchain, and so on.
+I have over 6 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time I have developed applications on different verticals including messaging, audio/video streaming, ride-sharing, event-driven, eCommerce, FinTech, EdTech, IoT, Blockchain, and so on.
 
 Lastly worked at Pathao Inc as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and Bashundhara Group as Software Engineer.
 
@@ -19,7 +19,6 @@ Area of expertise :
 - Leveraging Micro-service architecture for system design and development
 - Design and developing RTC/WebRTC applications
 - Design and developing decentralized applications (DApps) & smart contracts
-- Android application development
 - Monitoring, log aggregation
 
 Skills & Technologies:
