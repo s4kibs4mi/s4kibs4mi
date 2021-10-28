@@ -8,9 +8,7 @@ I have over 6 years of large scale software design & development experience (Bac
 
 Lastly worked at Pathao Inc as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and Bashundhara Group as Software Engineer.
 
-I am one of the Co-Founder of [LiveKlass, Inc](https://liveklass.io). We offer two SaaS based service [LiveKlass](https://liveklass.io) and [LiveMart](https://livemart.xyz).
-
-I am one of the Top Rated Plus Freelance Software Engineer on [Upwork](https://www.upwork.com/freelancers/~01a05b50198b92bab9). I am open to Remote/Freelance work.
+I am one of the Co-Founder of [LiveKlass, Inc](https://liveklass.io). We offer two SaaS based service [LiveKlass](https://liveklass.io) and [LiveMart](https://livemart.store).
 
 Area of expertise :
 - REST, GraphQL and gRPC API design and development
