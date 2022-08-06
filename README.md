@@ -6,9 +6,9 @@ You can find me on [Linkedin](https://linkedin.com/in/s4kibs4mi), [Twitter](http
 
 I have over 6 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time I have developed applications on different verticals including messaging, audio/video streaming, ride-sharing, event-driven, eCommerce, FinTech, EdTech, IoT, Blockchain, and so on.
 
-Currently working at Twilio as Senior Software Engineer. Previously worked at Pathao Inc as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and Bashundhara Group as Software Engineer.
+Currently working at [Twilio](https://twilio.com) as Senior Software Engineer. Also worked at [Pathao](https://pathao.com) as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and East West Media Group as Software Engineer.
 
-I am one of the Co-Founder of [LiveKlass, Inc](https://liveklass.io). We offer two SaaS based service [LiveKlass](https://liveklass.io) and [LiveMart](https://livemart.store).
+I am the Founder of [Shopemaa LLC](https://shopemaa.com). We offer SaaS based headless eCommerce API and On-demand store creator.
 
 Area of expertise :
 - REST, GraphQL and gRPC API design and development
@@ -34,4 +34,4 @@ Skills & Technologies:
 
 Interested in developing highly scalable distributed systems.
 
-Contact: s4kibs4mi@gmail.com | sakib@liveklass.io
+Contact: s4kibs4mi@gmail.com | sakib@shopemaa.com
