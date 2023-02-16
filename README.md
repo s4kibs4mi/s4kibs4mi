@@ -8,7 +8,7 @@ I have over 6 years of large scale software design & development experience (Bac
 
 Currently working at [Twilio](https://twilio.com) as Senior Software Engineer. Also worked at [Pathao](https://pathao.com) as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and East West Media Group as Software Engineer.
 
-I am the Founder of [Shopemaa LLC](https://shopemaa.com). We offer SaaS based headless eCommerce API and On-demand store creator.
+I have built [Shopemaa](https://shopemaa.com/) a small SaaS platform that offers headless eCommerce GraphQL API.
 
 Area of expertise :
 - REST, GraphQL and gRPC API design and development
@@ -22,12 +22,12 @@ Area of expertise :
 Skills & Technologies:
 - Golang, Java/Kotlin
 - RESTful, gRPC, GraphQL API
-- PostgreSQL, Redis, MongoDB, ElasticSearch
+- PostgreSQL, Redis, MongoDB, Cassandra, ElasticSearch
 - Apache Kafka, RabbitMQ, Apache Airflow
 - Kubernetes, Docker
 - MQTT, XMPP, WebRTC
 - Blockchain, Ethereum
-- Nginx, HAProxy, Apache
+- Nginx, HAProxy
 - Digital Ocean, AWS, Azure
 - Linux, macOS
 - Build automation, CI/CD
