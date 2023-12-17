@@ -34,4 +34,7 @@ Skills & Technologies:
 
 Interested in developing highly scalable distributed systems.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4kibs4mi)](https://github.com/s4kibs4mi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s4kibs4mi)](https://github.com/s4kibs4mi/github-readme-stats)
+
 Contact: s4kibs4mi@gmail.com | sakib@shopemaa.com
