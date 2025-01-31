@@ -4,11 +4,11 @@ My Name is Sakib and I am a Tech Entrepreneur, Software Engineer, Open Source En
 
 You can find me on [Linkedin](https://linkedin.com/in/s4kibs4mi), [Twitter](https://twitter.com/s4kibs4mi), [StackOverflow](https://stackoverflow.com/users/2923205/sakib-sami), [Medium](https://medium.com/@sakibsami). I also use few other social networks but I don't think that will be interesting for you.
 
-I have over 6 years of large scale software design & development experience (Backend). Experienced in both writing software from scratch and maintaining large existing projects. In this time I have developed applications on different verticals including messaging, audio/video streaming, ride-sharing, event-driven, eCommerce, FinTech, EdTech, IoT, Blockchain, and so on.
+I bring over 8 years of experience in large-scale software design and development, specializing in backend systems. I have worked on building software from the ground up as well as maintaining and enhancing large, existing projects. Throughout my career, I’ve developed applications across various sectors, including messaging, audio/video streaming, ride-sharing, event-driven systems, eCommerce, FinTech, EdTech, IoT, Blockchain, and more.
 
-Currently working at [Twilio](https://twilio.com) as Senior Software Engineer. Also worked at [Pathao](https://pathao.com) as Software Engineer, where I mostly worked with Golang, Docker, Kubernetes and some other cool stuffs. Previously worked for NybSys, Bangladesh as Senior Software Engineer and East West Media Group as Software Engineer.
+I am a former Senior Software Engineer at [Twilio](https://www.twilio.com), where I contributed to the modernization of messaging infrastructure and services, collaborating with cross-functional teams and working with technologies like Java, Scala, Kafka, and Docker. Before Twilio, I worked at [Pathao](https://pathao.com/?lang=en) as a Software Engineer, where I designed and deployed scalable service infrastructure using Docker and Kubernetes. I also co-founded [Shopemaa](https://shopemaa.com), where I built a scalable headless eCommerce API using Golang, PostgreSQL, and Docker. Earlier in my career, I held roles as a Senior Software Engineer at Nybbles Systems and East West Media Group in Bangladesh.
 
-I have built [Shopemaa](https://shopemaa.com/) a small SaaS platform that offers headless eCommerce GraphQL API.
+I have built [Shopemaa](https://shopemaa.com/) a small SaaS platform that offers headless eCommerce API.
 
 Area of expertise :
 - REST, GraphQL and gRPC API design and development
