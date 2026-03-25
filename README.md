@@ -2,7 +2,7 @@
 
 Tech Entrepreneur • Backend & Distributed Systems Engineer
 
-I design and build reliable, production-grade backend systems—focused on scalability, observability, and long-term maintainability. Over 9+ years, I’ve worked across startups and global companies, building and evolving systems that operate under real-world scale and constraints.
+I design and build reliable, production-grade backend systems focused on scalability, observability, and long-term maintainability. Over 9+ years, I’ve worked across startups and global companies, building and evolving systems that operate under real-world scale and constraints.
 
 ---
 
