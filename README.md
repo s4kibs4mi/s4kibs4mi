@@ -4,7 +4,6 @@ Tech Entrepreneur • Backend & Distributed Systems Engineer
 
 I design and build reliable, production-grade backend systems focused on scalability, observability, and long-term maintainability. Over 9+ years, I’ve worked across startups and global companies, building and evolving systems that operate under real-world scale and constraints.
 
----
 
 ### 🌍 Connect with me
 - [LinkedIn](https://linkedin.com/in/s4kibs4mi)
@@ -12,7 +11,6 @@ I design and build reliable, production-grade backend systems focused on scalabi
 - [Medium](https://medium.com/@sakibsami)
 - [Personal Blog](https://sakib.ninja)
 
----
 
 ### 🚀 What I do
 
@@ -22,7 +20,6 @@ I design and build reliable, production-grade backend systems focused on scalabi
 - Improve observability, testing, and production readiness  
 - Lead system design and engineering execution  
 
----
 
 ### 💼 Experience highlights
 
@@ -38,7 +35,6 @@ I design and build reliable, production-grade backend systems focused on scalabi
 - **Software Engineer @ [Pathao](https://pathao.com)**  
   Built scalable backend services in a high-growth mobility and logistics environment.
 
----
 
 ### 🏗 Founder & Products
 
@@ -51,12 +47,10 @@ I design and build reliable, production-grade backend systems focused on scalabi
 - **[Shopemaa](https://shopemaa.com)**  
   API-first headless commerce platform for products and subscriptions.
 
----
 
 ### 🧠 Domains I’ve worked in
 Messaging • Identity Verification • Distributed Systems • eCommerce • FinTech • Mobility • Real-time systems
 
----
 
 ### 🛠 Tech Stack
 
@@ -78,7 +72,6 @@ Docker • Kubernetes • Nginx • HAProxy • Traefik
 **Cloud & Systems**  
 AWS • GCP • DigitalOcean • Linux
 
----
 
 ### 🧩 Current focus
 Building systems that are:
@@ -86,14 +79,12 @@ Building systems that are:
 - Observable and debuggable  
 - Designed for real-world scale and failure  
 
----
 
 ### 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4kibs4mi)](https://github.com/s4kibs4mi/github-readme-stats)  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s4kibs4mi)](https://github.com/s4kibs4mi/github-readme-stats)
 
----
 
 ### 📫 Contact
 sakib@suberahq.com
