@@ -39,7 +39,7 @@ I design and build reliable, production-grade backend systems focused on scalabi
 ### 🏗 Founder & Products
 
 - **[Subera](https://suberahq.com)**  
-  Engineering studio focused on *Deliberate Software Engineering*—helping teams design and build production-grade systems.
+  Engineering studio focused on *Deliberate Software Engineering*, helping teams design and build production-grade systems.
 
 - **[QRCentraal](https://qrcentraal.com)**  
   QR-driven engagement and commerce platform (dynamic codes, analytics, affiliate payouts).
