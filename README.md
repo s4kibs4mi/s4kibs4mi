@@ -26,29 +26,29 @@ I design and build reliable, production-grade backend systems focused on scalabi
 
 ### 💼 Experience highlights
 
-- **Senior Software Engineer @ Veriff**  
+- **Senior Software Engineer @ [Veriff](https://veriff.com)**  
   Building backend systems for identity verification at global scale, focusing on reliability, scalability, and distributed architecture. :contentReference[oaicite:0]{index=0}  
 
-- **Lead Software Engineer @ Zulzi**  
+- **Lead Software Engineer @ [Zulzi](https://zulzi.com)**  
   Led architecture of an event-driven hospitality platform, designing scalable microservices and workflow orchestration for ordering and operations. :contentReference[oaicite:1]{index=1}  
 
-- **Senior Software Engineer @ Twilio**  
+- **Senior Software Engineer @ [Twilio](https://twilio.com)**  
   Contributed to modernization of messaging infrastructure, improving observability, testing workflows, and service reliability at scale. :contentReference[oaicite:2]{index=2}  
 
-- **Software Engineer @ Pathao**  
+- **Software Engineer @ [Pathao](https://pathao.com)**  
   Built scalable backend services in a high-growth mobility and logistics environment.
 
 ---
 
 ### 🏗 Founder & Products
 
-- **Subera (suberahq.com)**  
+- **[Subera](https://suberahq.com)**  
   Engineering studio focused on *Deliberate Software Engineering*—helping teams design and build production-grade systems.
 
-- **QRCentraal**  
+- **[QRCentraal](https://qrcentraal.com)**  
   QR-driven engagement and commerce platform (dynamic codes, analytics, affiliate payouts).
 
-- **Shopemaa**  
+- **[Shopemaa](https://shopemaa.com)**  
   API-first headless commerce platform for products and subscriptions.
 
 ---
